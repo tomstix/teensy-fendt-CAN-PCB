@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name fendt)(type KiCad)(uri ${KIPRJMOD}/fendt.pretty)(options "")(descr ""))
+  (lib (name "fendt-teensy-aog - smd")(type KiCad)(uri "${KIPRJMOD}/fendt-teensy-aog - smd.pretty")(options "")(descr ""))
+)
